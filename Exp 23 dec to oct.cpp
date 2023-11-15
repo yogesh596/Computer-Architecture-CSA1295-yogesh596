@@ -1,4 +1,4 @@
-#include <stdio.h>
+I#include <stdio.h>
 int main()
 {
 	long decimal, remainder, quotient,octal=0;
